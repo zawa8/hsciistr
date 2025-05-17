@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "outDir": "dist",
+      "module": "es6", 
+      "target": "es6",
+      "sourceMap": true,
+      "allowJs": false,
+      "declaration": true,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "strict": false,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "dist", "del","rollup.config.js"]
+ }
