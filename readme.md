@@ -43,6 +43,7 @@ class hsciistr {
 
 ##### hsciistr => open hsciistr.md 
 1. [about hsciistr](https://github.com/zawa8/hsciistr/blob/typescript/hsciistr.md)
+2. [npmzs heksadesiml gmail.com](xbaut_Abaut.md)
 
 [martinpersson article][article1]
 
